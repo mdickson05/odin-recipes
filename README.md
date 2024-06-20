@@ -4,4 +4,4 @@ I'm getting started web development via The Odin project. This website will be a
 ## Skills Demonstrated
 - Proficiency with basic HTML structure
 - The use of links and images in HTML
-- Proper heading indentation and formatting`
+- Proper heading indentation and formatting
