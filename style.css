@@ -12,9 +12,8 @@
     padding: 10px;
 }
 
-.align-center {
+.align.text {
     text-align: center;
-    
 }
 
 .container {
@@ -26,10 +25,13 @@
     font-size: large;
 }
 
-.align-image
+.align.image
 {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+.padding {
+    padding: 10px;
 }
